@@ -1,0 +1,15 @@
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\bin\Debug\net8.0\matematicas.exe
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\bin\Debug\net8.0\matematicas.deps.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\bin\Debug\net8.0\matematicas.runtimeconfig.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\bin\Debug\net8.0\matematicas.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\bin\Debug\net8.0\matematicas.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.AssemblyInfoInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.AssemblyInfo.cs
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.csproj.CoreCompileInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.sourcelink.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\refint\matematicas.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\matematicas.genruntimeconfig.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana01\dia2\matematicas\obj\Debug\net8.0\ref\matematicas.dll
