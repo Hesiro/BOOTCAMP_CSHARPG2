@@ -1,0 +1,15 @@
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.exe
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.deps.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.runtimeconfig.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\bin\Debug\net8.0\CrudEmpresas.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.AssemblyInfoInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.AssemblyInfo.cs
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.csproj.CoreCompileInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.sourcelink.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\refint\CrudEmpresas.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\CrudEmpresas.genruntimeconfig.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\CrudEmpresas\obj\Debug\net8.0\ref\CrudEmpresas.dll

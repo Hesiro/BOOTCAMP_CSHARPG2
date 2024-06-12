@@ -1,0 +1,15 @@
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\bin\Debug\net8.0\diccionarios.exe
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\bin\Debug\net8.0\diccionarios.deps.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\bin\Debug\net8.0\diccionarios.runtimeconfig.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\bin\Debug\net8.0\diccionarios.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\bin\Debug\net8.0\diccionarios.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.AssemblyInfoInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.AssemblyInfo.cs
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.sourcelink.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\refint\diccionarios.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\diccionarios.genruntimeconfig.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia1\diccionarios\obj\Debug\net8.0\ref\diccionarios.dll
