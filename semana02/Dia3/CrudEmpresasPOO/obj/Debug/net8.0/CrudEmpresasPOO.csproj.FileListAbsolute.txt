@@ -1,0 +1,15 @@
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\bin\Debug\net8.0\CrudEmpresasPOO.exe
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\bin\Debug\net8.0\CrudEmpresasPOO.deps.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\bin\Debug\net8.0\CrudEmpresasPOO.runtimeconfig.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\bin\Debug\net8.0\CrudEmpresasPOO.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\bin\Debug\net8.0\CrudEmpresasPOO.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.AssemblyInfoInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.AssemblyInfo.cs
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.csproj.CoreCompileInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.sourcelink.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\refint\CrudEmpresasPOO.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\CrudEmpresasPOO.genruntimeconfig.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia3\CrudEmpresasPOO\obj\Debug\net8.0\ref\CrudEmpresasPOO.dll
