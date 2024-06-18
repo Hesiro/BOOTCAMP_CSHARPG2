@@ -1,0 +1,15 @@
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\bin\Debug\net8.0\CrudAlumnosPOO.exe
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\bin\Debug\net8.0\CrudAlumnosPOO.deps.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\bin\Debug\net8.0\CrudAlumnosPOO.runtimeconfig.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\bin\Debug\net8.0\CrudAlumnosPOO.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\bin\Debug\net8.0\CrudAlumnosPOO.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.AssemblyInfoInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.AssemblyInfo.cs
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.csproj.CoreCompileInputs.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.sourcelink.json
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\refint\CrudAlumnosPOO.dll
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.pdb
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\CrudAlumnosPOO.genruntimeconfig.cache
+C:\Users\HENRY SIFUENTES\Documents\BOOTCAMP_CSHARPG2\semana02\Dia2\CrudAlumnosPOO\obj\Debug\net8.0\ref\CrudAlumnosPOO.dll

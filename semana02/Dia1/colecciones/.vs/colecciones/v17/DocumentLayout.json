@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana02\\Dia1\\colecciones\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42811B89-546C-42FD-8323-43BE53C3089A}|..\\CrudAlumnos\\CrudAlumnos.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana02\\dia1\\crudalumnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana02\\Dia1\\CrudAlumnos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CrudAlumnos\\Program.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana02\\Dia1\\CrudAlumnos\\Program.cs",
+              "RelativeToolTip": "..\\CrudAlumnos\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:02:28.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
