@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia.csproj", "{0A7EE173-CD10-481A-A19C-0E24D668573E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia.csproj", "{0A7EE173-CD10-481A-A19C-0E24D668573E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriculas", "..\Matriculas\Matriculas.csproj", "{27743116-80B3-4A42-A140-12F99DD4773A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0A7EE173-CD10-481A-A19C-0E24D668573E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A7EE173-CD10-481A-A19C-0E24D668573E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A7EE173-CD10-481A-A19C-0E24D668573E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27743116-80B3-4A42-A140-12F99DD4773A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27743116-80B3-4A42-A140-12F99DD4773A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27743116-80B3-4A42-A140-12F99DD4773A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27743116-80B3-4A42-A140-12F99DD4773A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

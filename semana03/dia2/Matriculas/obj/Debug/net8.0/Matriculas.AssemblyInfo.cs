@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Herencia")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Matriculas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e90e3fb2b2a206589e3344c7b2c40b375bf48f77")]
-[assembly: System.Reflection.AssemblyProductAttribute("Herencia")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Herencia")]
+[assembly: System.Reflection.AssemblyProductAttribute("Matriculas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Matriculas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
