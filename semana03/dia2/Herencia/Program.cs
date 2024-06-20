@@ -6,18 +6,13 @@ namespace Herencia
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola, Henry!");
+            Console.WriteLine("HERENCIA!\n");
 
-            Alumno alumno = new Alumno();
-            alumno.Nombre = "Henry Sifuentes";
-            alumno.Email = "henrywsr@gmail.com";
-            alumno.Nota = 17;
-            alumno.Mostrar();
-            alumno.MostrarNota();
+            Alumno alumno = new Alumno("Henry Sifuentes", "henrywsr@gmail.com", 17);            
+            alumno.Mostrar();            
 
-            Profesor profesor = new Profesor();
-            profesor.Nombre = "Cesar Mayta";
-            profesor.Email = "cmayta@gmail.com";
+            Console.WriteLine("\n");
+            Profesor profesor = new Profesor("Cesar Mayta", "cmayta@gmail.com");
             profesor.Mostrar();
         }
     }
