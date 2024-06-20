@@ -10,9 +10,18 @@ namespace Matriculas.DAO
     internal class ProfesorDAO : DAO
     {
         private List<Profesor> listaProfesor = new List<Profesor>();
+
+        private Profesor FindValue()
+        {
+            Console.WriteLine("INGRESE EL EMAIL DEL PROFESOR:");
+            string email = Console.ReadLine();
+
+            Profesor profesor = listaProfesor.Find(a => a.Email.Equals(email,StringComparison.OrdinalIgnoreCase));
+            return profesor;
+        }
         public override void Create()
         {
-            base.mensaje.MostrarTitulo("REGISTRO DE NUEVO PROFESOR");
+            mensaje.MostrarTitulo("REGISTRO DE NUEVO PROFESOR");
             Console.WriteLine("ID: ");
             int id = int.Parse(Console.ReadLine());
             Console.WriteLine("NOMBRE: ");
@@ -24,22 +33,53 @@ namespace Matriculas.DAO
 
             Profesor nuevoProfesor = new Profesor(id, nombre, email, especialidad);
             listaProfesor.Add(nuevoProfesor);
-            base.mensaje.MostrarMensaje("PROFESOR REGISTRADO CON EXITO!!!");
+            mensaje.MostrarMensaje("PROFESOR REGISTRADO CON EXITO!!!");
         }
-
-        public override void Delete()
-        {
-            throw new NotImplementedException();
-        }
-
         public override void Read()
         {
-            throw new NotImplementedException();
+            mensaje.MostrarTitulo("RELACION DE PROFESORES");
+            foreach (var profesor in listaProfesor)
+            {
+                Console.WriteLine(new string('*', 50));
+                profesor.Mostrar();
+            }
         }
-
         public override void Update()
         {
-            throw new NotImplementedException();
+            mensaje.MostrarTitulo("ACTUALIZAR PROFESOR");
+            Profesor profesor = FindValue();
+            if (profesor != null)
+            {
+                Console.WriteLine("NUEVO NOMBRE:");
+                string nuevoNombre = Console.ReadLine();
+                Console.WriteLine("NUEVO EMAIL:");
+                string nuevoEmail = Console.ReadLine();
+                Console.WriteLine("NUEVO ESPECIALIDAD:");
+                string nuevoEspecialidad = Console.ReadLine();
+
+                profesor.Nombre = nuevoNombre;
+                profesor.Email = nuevoEmail;
+                profesor.Especialidad = nuevoEspecialidad;
+
+                mensaje.MostrarMensaje("PROFESOR ACTUALIZADO CON EXITO !!!");
+            }
+            else {
+                mensaje.MostrarMensaje("PROFESOR NO ENCONTRADO ...");
+            }
+        }
+        public override void Delete()
+        {
+            mensaje.MostrarTitulo("ELIMINAR PROFESOR");
+            Profesor profesor = FindValue();
+            if (profesor != null)
+            {
+                listaProfesor.Remove(profesor);
+                mensaje.MostrarMensaje("PROFESOR ELIMINADO CON EXITO !!!");
+            }
+            else
+            {
+                mensaje.MostrarMensaje("PROFESOR NO ENCONTRADO ...");
+            }
         }
     }
 }

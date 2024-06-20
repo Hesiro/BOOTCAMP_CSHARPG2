@@ -3,16 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\dao\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\ui\\alumnoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,53 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProfesorDAO.cs",
-              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\DAO\\ProfesorDAO.cs",
-              "RelativeDocumentMoniker": "..\\Matriculas\\DAO\\ProfesorDAO.cs",
-              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\DAO\\ProfesorDAO.cs",
-              "RelativeToolTip": "..\\Matriculas\\DAO\\ProfesorDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABMAAAA",
+              "Title": "AlumnoUI.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\UI\\AlumnoUI.cs",
+              "RelativeDocumentMoniker": "..\\Matriculas\\UI\\AlumnoUI.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\UI\\AlumnoUI.cs",
+              "RelativeToolTip": "..\\Matriculas\\UI\\AlumnoUI.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADMAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T02:41:48.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\MODELS\\Persona.cs",
-              "RelativeDocumentMoniker": "..\\Matriculas\\MODELS\\Persona.cs",
-              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\MODELS\\Persona.cs",
-              "RelativeToolTip": "..\\Matriculas\\MODELS\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T02:32:24.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profesor.cs",
-              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\MODELS\\Profesor.cs",
-              "RelativeDocumentMoniker": "..\\Matriculas\\MODELS\\Profesor.cs",
-              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\MODELS\\Profesor.cs",
-              "RelativeToolTip": "..\\Matriculas\\MODELS\\Profesor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T02:29:56.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\MODELS\\Alumno.cs",
-              "RelativeDocumentMoniker": "..\\Matriculas\\MODELS\\Alumno.cs",
-              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\MODELS\\Alumno.cs",
-              "RelativeToolTip": "..\\Matriculas\\MODELS\\Alumno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T02:29:50.452Z",
+              "WhenOpened": "2024-06-20T04:10:05.767Z",
               "EditorCaption": ""
             }
           ]

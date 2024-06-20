@@ -16,6 +16,8 @@ namespace Matriculas.MODELS
          
         }
 
+        public string Especialidad { get => especialidad; set => especialidad = value; }
+
         public override void Mostrar()
         {
             base.Mostrar();

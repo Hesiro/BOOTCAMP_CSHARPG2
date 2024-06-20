@@ -10,7 +10,7 @@ namespace Matriculas.DAO
 {
     internal abstract class DAO
     {
-        protected Mensaje mensaje = new Mensaje(50);
+        protected Mensaje mensaje = new Mensaje(50);        
         public abstract void Create();
         public abstract void Read();
         public abstract void Update();

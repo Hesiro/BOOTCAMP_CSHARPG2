@@ -1,10 +1,13 @@
-﻿namespace Matriculas
+﻿using Matriculas.UI;
+
+namespace Matriculas
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            MainUI mainUI = new MainUI();
+            mainUI.MostrarMenu();
         }
     }
 }

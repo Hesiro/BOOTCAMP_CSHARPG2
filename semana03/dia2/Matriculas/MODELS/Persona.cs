@@ -19,6 +19,9 @@ namespace Matriculas.MODELS
             this.email = email;
         }
 
+        public string Nombre { get => nombre; set => nombre = value; }
+        public string Email { get => email; set => email = value; }
+
         public virtual void Mostrar()
         {
             Console.WriteLine($"ID: {this.id}");
