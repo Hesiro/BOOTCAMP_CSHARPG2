@@ -1,6 +1,7 @@
 ﻿using Matriculas.MODELS;
 using System;
 using System.Collections.Generic;
+using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -27,9 +28,11 @@ namespace Matriculas.DAO
             string nombre = Console.ReadLine();
             Console.WriteLine("EMAIL:");
             string email = Console.ReadLine();
-            
+            Console.WriteLine("NOTA:");
+            int nota = int.Parse(Console.ReadLine());
 
-            Alumno nuevoAlumno = new Alumno(id, nombre, email);
+
+            Alumno nuevoAlumno = new Alumno(id, nombre, email, nota);
             listaAlumno.Add(nuevoAlumno);
             mensaje.MostrarMensaje("ALUMNO REGISTRADO CON EXITO!!!");
         }
@@ -51,10 +54,13 @@ namespace Matriculas.DAO
                 Console.WriteLine("NUEVO NOMBRE:");
                 string nuevoNombre = Console.ReadLine();
                 Console.WriteLine("NUEVO EMAIL:");
-                string nuevoEmail = Console.ReadLine();                
+                string nuevoEmail = Console.ReadLine();
+                Console.WriteLine("NUEVA NOTA:");
+                int nuevoNota = int.Parse(Console.ReadLine());
 
                 alumno.Nombre = nuevoNombre;
-                alumno.Email = nuevoEmail;                
+                alumno.Email = nuevoEmail; 
+                alumno.Nota = nuevoNota;
 
                 mensaje.MostrarMensaje("ALUMNO ACTUALIZADO CON EXITO !!!");
             }

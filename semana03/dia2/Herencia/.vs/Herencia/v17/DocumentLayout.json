@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Herencia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\ui\\alumnoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27743116-80B3-4A42-A140-12F99DD4773A}|..\\Matriculas\\Matriculas.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana03\\dia2\\matriculas\\dao\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlumnoUI.cs",
-              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\UI\\AlumnoUI.cs",
-              "RelativeDocumentMoniker": "..\\Matriculas\\UI\\AlumnoUI.cs",
-              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\UI\\AlumnoUI.cs",
-              "RelativeToolTip": "..\\Matriculas\\UI\\AlumnoUI.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAADMAAAA4AAAA",
+              "Title": "AlumnoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\DAO\\AlumnoDAO.cs",
+              "RelativeDocumentMoniker": "..\\Matriculas\\DAO\\AlumnoDAO.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana03\\dia2\\Matriculas\\DAO\\AlumnoDAO.cs",
+              "RelativeToolTip": "..\\Matriculas\\DAO\\AlumnoDAO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABIAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:10:05.767Z",
+              "WhenOpened": "2024-06-22T02:31:23.051Z",
               "EditorCaption": ""
             }
           ]

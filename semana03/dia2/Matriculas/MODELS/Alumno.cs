@@ -8,8 +8,18 @@ namespace Matriculas.MODELS
 {
     internal class Alumno : Persona
     {
-        public Alumno(int id, string nombre, string email) : base(id, nombre, email)
+        private int nota;
+        public Alumno(int id, string nombre, string email, int nota) : base(id, nombre, email)
         {
+            this.nota = nota;
+        }
+
+        public int Nota { get => nota; set => nota = value; }
+
+        public override void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine($"NOTA: {this.nota}");
         }
     }
 }
