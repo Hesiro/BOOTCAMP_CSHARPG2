@@ -1,4 +1,5 @@
-﻿using Matriculas.MODELS;
+﻿using Matriculas.INTERFACES;
+using Matriculas.MODELS;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace Matriculas.DAO
 {
     internal class ProfesorDAO : DAO
     {
-        private List<Profesor> listaProfesor = new List<Profesor>();
+        //private List<Profesor> listaProfesor = new List<Profesor>();
 
         private Profesor FindValue()
         {
@@ -19,9 +20,9 @@ namespace Matriculas.DAO
             Profesor profesor = listaProfesor.Find(a => a.Email.Equals(email,StringComparison.OrdinalIgnoreCase));
             return profesor;
         }
-        public override void Create()
+        public void Create()
         {
-            mensaje.MostrarTitulo("REGISTRO DE NUEVO PROFESOR");
+            this.mensaje.MostrarTitulo("REGISTRO DE NUEVO PROFESOR");
             Console.WriteLine("ID: ");
             int id = int.Parse(Console.ReadLine());
             Console.WriteLine("NOMBRE: ");
@@ -35,7 +36,7 @@ namespace Matriculas.DAO
             listaProfesor.Add(nuevoProfesor);
             mensaje.MostrarMensaje("PROFESOR REGISTRADO CON EXITO!!!");
         }
-        public override void Read()
+        public void Read()
         {
             mensaje.MostrarTitulo("RELACION DE PROFESORES");
             foreach (var profesor in listaProfesor)
@@ -44,7 +45,7 @@ namespace Matriculas.DAO
                 profesor.Mostrar();
             }
         }
-        public override void Update()
+        public void Update()
         {
             mensaje.MostrarTitulo("ACTUALIZAR PROFESOR");
             Profesor profesor = FindValue();
@@ -67,7 +68,7 @@ namespace Matriculas.DAO
                 mensaje.MostrarMensaje("PROFESOR NO ENCONTRADO ...");
             }
         }
-        public override void Delete()
+        public void Delete()
         {
             mensaje.MostrarTitulo("ELIMINAR PROFESOR");
             Profesor profesor = FindValue();

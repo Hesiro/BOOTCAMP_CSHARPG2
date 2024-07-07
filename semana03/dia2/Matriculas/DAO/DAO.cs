@@ -1,4 +1,5 @@
-﻿using Matriculas.MODELS;
+﻿using Matriculas.INTERFACES;
+using Matriculas.MODELS;
 using Matriculas.UTILS;
 using System;
 using System.Collections.Generic;
@@ -8,12 +9,23 @@ using System.Threading.Tasks;
 
 namespace Matriculas.DAO
 {
-    internal abstract class DAO
+    internal abstract class DAO<T> : ICrud<T>
     {
-        protected Mensaje mensaje = new Mensaje(50);        
-        public abstract void Create();
-        public abstract void Read();
-        public abstract void Update();
-        public abstract void Delete();
+        protected Mensaje mensaje = new Mensaje(50);    
+        protected List<T> items = new List<T>();
+
+        public virtual void Create( T item)
+        {
+            items.Add(item);
+        }
+        public virtual void Read() {
+            foreach (var item in items) { 
+                Console.WriteLine(item.ToString());
+            }
+        }
+        public virtual void Update( T item) { }
+        public virtual void Delete(T item) {
+            items.Remove(item);
+        }
     }
 }

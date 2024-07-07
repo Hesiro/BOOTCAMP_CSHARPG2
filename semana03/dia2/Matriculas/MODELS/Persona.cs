@@ -28,5 +28,10 @@ namespace Matriculas.MODELS
             Console.WriteLine($"NOMBRE: {this.nombre}");
             Console.WriteLine($"EMAIL: {this.email}");
         }
+
+        public virtual string ToString()
+        {
+            return $"NOMBRE: {nombre}";
+        }
     }
 }

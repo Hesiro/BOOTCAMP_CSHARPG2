@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana04\\miercoles\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana04\\miercoles\\ejercicio1\\ejercicio1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana04\\miercoles\\ejercicio1\\ejercicio1\\personapropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\personapropiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana04\\miercoles\\ejercicio1\\ejercicio1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5719DD19-F6C2-4FD7-B76B-4256E753E593}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\Calculadora.cs",
+              "RelativeToolTip": "Ejercicio1\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:30:09.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaPropiedades.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\PersonaPropiedades.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\PersonaPropiedades.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\PersonaPropiedades.cs",
+              "RelativeToolTip": "Ejercicio1\\PersonaPropiedades.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:14:51.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\Persona.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Persona.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\Persona.cs",
+              "RelativeToolTip": "Ejercicio1\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:00:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana04\\Miercoles\\Ejercicio1\\Ejercicio1\\Program.cs \u2B24",
+              "RelativeToolTip": "Ejercicio1\\Program.cs \u2B24",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:58:45.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-﻿using Matriculas.MODELS;
+﻿using Matriculas.INTERFACES;
+using Matriculas.MODELS;
 using System;
 using System.Collections.Generic;
 using System.IO.Compression;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Matriculas.DAO
 {
-    internal class AlumnoDAO : DAO
+    internal class AlumnoDAO : DAO<T>
     {
         private List<Alumno> listaAlumno = new List<Alumno>();
         private Alumno FindValue()
@@ -19,7 +20,7 @@ namespace Matriculas.DAO
             Alumno alumno = listaAlumno.Find(a => a.Email.Equals(email, StringComparison.OrdinalIgnoreCase));
             return alumno;
         }
-        public override void Create()
+        public void Create()
         {
             mensaje.MostrarTitulo("REGISTRO DE NUEVO ALUMNO");
             Console.WriteLine("ID: ");
@@ -36,7 +37,7 @@ namespace Matriculas.DAO
             listaAlumno.Add(nuevoAlumno);
             mensaje.MostrarMensaje("ALUMNO REGISTRADO CON EXITO!!!");
         }
-        public override void Read()
+        public void Read()
         {
             mensaje.MostrarTitulo("RELACION DE ALUMNOS");
             foreach (var alumno in listaAlumno)
@@ -45,7 +46,7 @@ namespace Matriculas.DAO
                 alumno.Mostrar();
             }
         }
-        public override void Update()
+        public void Update()
         {
             mensaje.MostrarTitulo("ACTUALIZAR ALUMNO");
             Alumno alumno = FindValue();
@@ -69,7 +70,7 @@ namespace Matriculas.DAO
                 mensaje.MostrarMensaje("ALUMNO NO ENCONTRADO ...");
             }
         }
-        public override void Delete()
+        public void Delete()
         {
             mensaje.MostrarTitulo("ELIMINAR ALUMNO");
             Alumno alumno = FindValue();
