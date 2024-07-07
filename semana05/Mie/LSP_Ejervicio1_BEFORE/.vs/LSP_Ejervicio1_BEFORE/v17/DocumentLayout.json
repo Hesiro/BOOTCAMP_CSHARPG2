@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana05\\Mie\\LSP_Ejervicio1_BEFORE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF54DB3-B417-49BE-935E-948EEAD35FF1}|ISP_Ejercicio2_AFTER\\ISP_Ejercicio2_AFTER.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana05\\mie\\lsp_ejervicio1_before\\isp_ejercicio2_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF54DB3-B417-49BE-935E-948EEAD35FF1}|ISP_Ejercicio2_AFTER\\ISP_Ejercicio2_AFTER.csproj|solutionrelative:isp_ejercicio2_after\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32B1CB4-F30D-4A8D-8927-CEC47CAA6561}|ISP_Ejercicio2_BEFORE\\ISP_Ejercicio2_BEFORE.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana05\\mie\\lsp_ejervicio1_before\\isp_ejercicio2_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32B1CB4-F30D-4A8D-8927-CEC47CAA6561}|ISP_Ejercicio2_BEFORE\\ISP_Ejercicio2_BEFORE.csproj|solutionrelative:isp_ejercicio2_before\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana05\\Mie\\LSP_Ejervicio1_BEFORE\\ISP_Ejercicio2_BEFORE\\Program.cs",
+              "RelativeDocumentMoniker": "ISP_Ejercicio2_BEFORE\\Program.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana05\\Mie\\LSP_Ejervicio1_BEFORE\\ISP_Ejercicio2_BEFORE\\Program.cs",
+              "RelativeToolTip": "ISP_Ejercicio2_BEFORE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:39:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana05\\Mie\\LSP_Ejervicio1_BEFORE\\ISP_Ejercicio2_AFTER\\Program.cs",
+              "RelativeDocumentMoniker": "ISP_Ejercicio2_AFTER\\Program.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana05\\Mie\\LSP_Ejervicio1_BEFORE\\ISP_Ejercicio2_AFTER\\Program.cs",
+              "RelativeToolTip": "ISP_Ejercicio2_AFTER\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:39:35.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

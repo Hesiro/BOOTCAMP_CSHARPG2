@@ -4,8 +4,10 @@
     {
         static void Main(string[] args)
         {
-            IPrinterTask task = new HPLaserJetPrinter();
-            task.Fax("Contenido");
+            IPrinterTask hpTask = new HPLaserJetPrinter();
+            IPrinterTask spTask = new SimplePrinter();
+            hpTask.Fax("Contenido");
+            spTask.Print("Contenido");
 
         }
     }

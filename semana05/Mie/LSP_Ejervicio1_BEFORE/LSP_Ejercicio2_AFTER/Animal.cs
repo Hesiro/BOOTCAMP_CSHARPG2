@@ -10,7 +10,7 @@ namespace LSP_Ejercicio2_AFTER
     {
         public string Noise { get ; set ; }
 
-        public void MakeNoise()
+        public virtual void MakeNoise()
         {
             Console.WriteLine(Noise);
         }

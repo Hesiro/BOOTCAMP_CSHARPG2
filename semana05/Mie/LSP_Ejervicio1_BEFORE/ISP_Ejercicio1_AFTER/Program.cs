@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            HPLaserJetPrinter hpTask = new HPLaserJetPrinter();
+            SimplePrinter spTask = new SimplePrinter();
+            hpTask.Fax("Contenido");
+            hpTask.Print("Contenido");
+            hpTask.Scan("Contenido");
+            spTask.Print("Contenido");
+            spTask.Scan("Contenido");
         }
     }
 }
