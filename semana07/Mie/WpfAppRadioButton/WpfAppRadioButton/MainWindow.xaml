@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfAppRadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppRadioButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.ColumnSpan="2">
+            <TextBlock TextAlignment="Center" FontSize="50" Foreground="Blue">SEMAFORO</TextBlock>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <RadioButton x:Name="rbRojo" Margin="10,10,10,10" Click="rbRojo_Click">Rojo</RadioButton>
+            <RadioButton x:Name="rbAmarillo" Margin="10,10,10,10" Click="rbAmarillo_Click">Amarillo</RadioButton>
+            <RadioButton x:Name="rbVerde" Margin="10,10,10,10" Click="rbVerde_Click">Verde</RadioButton>
+        </StackPanel>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Image Source="C:\Users\HENRY SIFUENTES\Downloads\Semaforo.jpg" Height="300" Width="300"/>
+            <Ellipse x:Name="elipseRoja" Margin="174,65,168,240" Fill="Red" Visibility="Visible"/>
+            <Ellipse x:Name="elipseAmarilla" Margin="174,119,168,186" Fill="Yellow" Visibility="Hidden"/>
+            <Ellipse x:Name="elipseVerde" Margin="174,174,168,131" Fill="Green" Visibility="Hidden"/>
+        </Grid>
+    </Grid>
+</Window>

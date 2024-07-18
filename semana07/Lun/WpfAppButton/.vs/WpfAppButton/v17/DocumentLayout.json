@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana07\\Lun\\WpfAppButton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457A8364-8DD6-48EC-9136-937B13B792AD}|WpfAppButton\\WpfAppButton.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana07\\lun\\wpfappbutton\\wpfappbutton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457A8364-8DD6-48EC-9136-937B13B792AD}|WpfAppButton\\WpfAppButton.csproj|solutionrelative:wpfappbutton\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457A8364-8DD6-48EC-9136-937B13B792AD}|WpfAppButton\\WpfAppButton.csproj|c:\\users\\henry sifuentes\\documents\\bootcamp_csharpg2\\semana07\\lun\\wpfappbutton\\wpfappbutton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{457A8364-8DD6-48EC-9136-937B13B792AD}|WpfAppButton\\WpfAppButton.csproj|solutionrelative:wpfappbutton\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana07\\Lun\\WpfAppButton\\WpfAppButton\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppButton\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana07\\Lun\\WpfAppButton\\WpfAppButton\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppButton\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-16T02:35:39.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana07\\Lun\\WpfAppButton\\WpfAppButton\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppButton\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HENRY SIFUENTES\\Documents\\BOOTCAMP_CSHARPG2\\semana07\\Lun\\WpfAppButton\\WpfAppButton\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppButton\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T02:35:26.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
