@@ -1,0 +1,20 @@
+CREATE TABLE GlobalCorp(
+Id INT PRIMARY KEY,
+Nombre VARCHAR(50),
+Apellido VARCHAR(50),
+Edad TINYINT,
+Sueldo DECIMAL(10,2),
+FechaNaciminto DATE,
+HoraEntrada TIME,
+FechaHoraRegistro DATETIME,
+Descripcion TEXT,
+Documento BINARY(50),
+Foto VARBINARY(MAX),
+Estado CHAR(1),
+Comentario NTEXT,
+Archivos XML, 
+Precio MONEY,
+Booleano BIT,
+Identificacion UNIQUEIDENTIFIER,
+PuntoGeografico GEOGRAPHY
+);
