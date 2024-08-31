@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA02EFD2-2A55-44F7-9191-0E6C09A489C5}|ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp.csproj|C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\modelodesconectadowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA02EFD2-2A55-44F7-9191-0E6C09A489C5}|ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp.csproj|solutionrelative:modelodesconectadowpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA02EFD2-2A55-44F7-9191-0E6C09A489C5}|ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana33\\mie 14 08 2024\\modelodesconectadowpfapp\\modelodesconectadowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA02EFD2-2A55-44F7-9191-0E6C09A489C5}|ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp.csproj|solutionrelative:modelodesconectadowpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA02EFD2-2A55-44F7-9191-0E6C09A489C5}|ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana33\\mie 14 08 2024\\modelodesconectadowpfapp\\modelodesconectadowpfapp\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{DA02EFD2-2A55-44F7-9191-0E6C09A489C5}|ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp.csproj|solutionrelative:modelodesconectadowpfapp\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "ModeloDesconectadoWpfApp\\DataSet1.xsd",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp\\DataSet1.xsd",
+              "RelativeToolTip": "ModeloDesconectadoWpfApp\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-08-31T15:56:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ModeloDesconectadoWpfApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp\\MainWindow.xaml",
+              "RelativeToolTip": "ModeloDesconectadoWpfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-31T04:58:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ModeloDesconectadoWpfApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana33\\Mie 14 08 2024\\ModeloDesconectadoWpfApp\\ModeloDesconectadoWpfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ModeloDesconectadoWpfApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:58:46.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
