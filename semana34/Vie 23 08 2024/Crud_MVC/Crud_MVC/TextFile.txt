@@ -1,0 +1,4 @@
+﻿/*Codigo para generar*/
+
+add-migration mitext
+update-database
