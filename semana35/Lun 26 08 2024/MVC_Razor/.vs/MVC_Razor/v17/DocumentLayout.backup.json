@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Index.cshtml*",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contact\\Index.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T03:08:09.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Razor\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T02:50:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MVC_Razor\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MVC_Razor\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:17:49.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

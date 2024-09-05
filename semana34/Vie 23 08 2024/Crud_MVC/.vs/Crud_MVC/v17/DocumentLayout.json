@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana34\\vie 23 08 2024\\crud_mvc\\crud_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana34\\vie 23 08 2024\\crud_mvc\\crud_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana34\\vie 23 08 2024\\crud_mvc\\crud_mvc\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana34\\vie 23 08 2024\\crud_mvc\\crud_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1C5B02D-B8B8-41B2-BF37-82C4AEFAB001}|Crud_MVC\\Crud_MVC.csproj|solutionrelative:crud_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\Program.cs",
+              "RelativeToolTip": "Crud_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:41:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_MVC\\appsettings.json",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\appsettings.json",
+              "RelativeToolTip": "Crud_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T21:39:10.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Crud_MVC\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "Crud_MVC\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T21:38:15.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Crud_MVC\\Views\\Home\\Index.cshtml",
@@ -30,12 +81,11 @@
               "RelativeToolTip": "Crud_MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAACmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-01T16:48:50.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T16:48:50.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana34\\Vie 23 08 2024\\Crud_MVC\\Crud_MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Crud_MVC\\Controllers\\HomeController.cs",
