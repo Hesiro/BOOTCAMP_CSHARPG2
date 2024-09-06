@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using MVC_Razor.Data;
 using MVC_Razor.Models;
 
@@ -65,6 +66,7 @@ namespace MVC_Razor.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult Detail(int id) {
             if (id == null)
             {
@@ -76,6 +78,39 @@ namespace MVC_Razor.Controllers
                 return NotFound();
             }
             return View(contact);
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+            Contact contact = _appDbContext.Contacts.Find(id);
+            if (contact == null)
+            {
+                return NotFound();
+            }
+            return View(contact);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Delete(Contact contact)
+        {
+            if (ModelState.IsValid)
+            {
+                Contact contact1 = _appDbContext.Contacts.Find(contact.Id);
+                if (contact1 == null)
+                {
+                    return View();
+                }
+                _appDbContext.Contacts.Remove(contact1);
+                await _appDbContext.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View();
         }
 
         public IActionResult Privacy() { 

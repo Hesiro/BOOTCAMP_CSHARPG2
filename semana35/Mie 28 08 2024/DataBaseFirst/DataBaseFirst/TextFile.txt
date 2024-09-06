@@ -1,0 +1,3 @@
+﻿dotnet tool install --global dotnet-ef
+
+dotnet ef dbcontext scaffold 'name=ConnectionStrings:DefaultConnection' Microsoft.EntityFrameworkCore.SqlServer --data-annotations -o Data
