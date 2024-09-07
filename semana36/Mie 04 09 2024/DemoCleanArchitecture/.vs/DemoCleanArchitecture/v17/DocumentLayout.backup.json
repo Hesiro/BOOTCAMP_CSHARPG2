@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana36\\Mie 04 09 2024\\DemoCleanArchitecture\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2160C45B-AE66-4BE5-9141-D5868FFEE318}|WebAPI\\WebAPI.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana36\\mie 04 09 2024\\democleanarchitecture\\webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2160C45B-AE66-4BE5-9141-D5868FFEE318}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2160C45B-AE66-4BE5-9141-D5868FFEE318}|WebAPI\\WebAPI.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana36\\mie 04 09 2024\\democleanarchitecture\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2160C45B-AE66-4BE5-9141-D5868FFEE318}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana36\\Mie 04 09 2024\\DemoCleanArchitecture\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana36\\Mie 04 09 2024\\DemoCleanArchitecture\\WebAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:25:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana36\\Mie 04 09 2024\\DemoCleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana36\\Mie 04 09 2024\\DemoCleanArchitecture\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T03:01:59.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

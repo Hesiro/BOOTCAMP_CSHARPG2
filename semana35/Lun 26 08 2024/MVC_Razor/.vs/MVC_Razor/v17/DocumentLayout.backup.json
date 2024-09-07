@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\views\\contact\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\views\\contact\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana35\\lun 26 08 2024\\mvc_razor\\mvc_razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD7B784A-10CA-49E7-A125-B2954D141B79}|MVC_Razor\\MVC_Razor.csproj|solutionrelative:mvc_razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contact\\Delete.cshtml",
-              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Delete.cshtml",
-              "RelativeToolTip": "MVC_Razor\\Views\\Contact\\Delete.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-06T02:33:08.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Detail.cshtml",
-              "RelativeDocumentMoniker": "MVC_Razor\\Views\\Contact\\Detail.cshtml",
-              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Views\\Contact\\Detail.cshtml",
-              "RelativeToolTip": "MVC_Razor\\Views\\Contact\\Detail.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-05T03:18:47.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "MVC_Razor\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "MVC_Razor\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T03:10:44.521Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Razor\\appsettings.json",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana35\\Lun 26 08 2024\\MVC_Razor\\MVC_Razor\\appsettings.json",
+              "RelativeToolTip": "MVC_Razor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T03:18:33.34Z",
               "EditorCaption": ""
             }
           ]
