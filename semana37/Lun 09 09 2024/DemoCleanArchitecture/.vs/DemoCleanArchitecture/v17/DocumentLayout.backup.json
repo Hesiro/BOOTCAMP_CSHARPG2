@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana37\\Lun 09 09 2024\\DemoCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5804A5-5DCE-4D58-9B39-86C6B9CFEE22}|WebAssembly\\WebAssembly.csproj|c:\\repositorio\\bootcamp_csharpg2\\semana37\\lun 09 09 2024\\democleanarchitecture\\webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B5804A5-5DCE-4D58-9B39-86C6B9CFEE22}|WebAssembly\\WebAssembly.csproj|solutionrelative:webassembly\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana37\\Lun 09 09 2024\\DemoCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "WebAssembly\\Pages\\Home.razor",
+              "ToolTip": "C:\\Repositorio\\BOOTCAMP_CSHARPG2\\semana37\\Lun 09 09 2024\\DemoCleanArchitecture\\WebAssembly\\Pages\\Home.razor",
+              "RelativeToolTip": "WebAssembly\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T03:37:42.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
